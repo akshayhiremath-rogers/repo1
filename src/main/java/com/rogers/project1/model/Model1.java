@@ -1,1 +1,1 @@
-Class Model1{}
+Class Model1{ private int name;}
